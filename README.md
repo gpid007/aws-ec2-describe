@@ -18,8 +18,8 @@ cd $HOME/.oh-my-bash/plugins/ \
 ```
 getec2 \
     [-g [REXP|*]] \
-    [-p [PROFILE|all]] 
-    [-c [COLUMN|all|1,3..6,9]] 
-    [-h [HELP|?]]
+    [-p [PROFILE|all]] \
+    [-c [COLUMN|all|1,3..6,9]] \
+    [-h [HELP|?]] \
     [-H [HEADER]]
 ```
